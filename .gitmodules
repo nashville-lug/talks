@@ -1,0 +1,9 @@
+[submodule "kernel-talk"]
+	path = kernel-talk
+	url = https://github.com/amberadams/kernel-talk.git
+[submodule "minecraft-talk"]
+	path = minecraft-talk
+	url = https://github.com/amberadams/minecraft-talk.git
+[submodule "privacy-talk"]
+	path = privacy-talk
+	url = https://github.com/amberadams/privacy-talk.git
